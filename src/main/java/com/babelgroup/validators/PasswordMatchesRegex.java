@@ -21,6 +21,5 @@ public class PasswordMatchesRegex extends AbstractValidator{
                 break;
             }
         }
-
     }
 }
